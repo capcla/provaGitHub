@@ -1,6 +1,6 @@
 package provaGitHub;
 
 public class main {
-	System.out.println("Master");
+	System.out.println("fifth");
 	
 }
